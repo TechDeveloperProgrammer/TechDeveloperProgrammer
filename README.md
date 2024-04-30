@@ -1,4 +1,4 @@
-# 💫 About Me:
+😅# 💫 About Me:
 🌟 Christian LEGIONARY 🌟<br><br> Saludos, mi nombre es **Cristian Adrián Ruiz González**, un estudiante apasionado de **Ingeniería en Computación** en **UNIJAL**, Jalisco. Con **ocho cuatrimestres** completados, mi entusiasmo por **Linux** y la **ciberseguridad** me ha convertido en un destacado en mi especialidad. Más allá de la tecnología, me sumerjo en los universos de **videojuegos y anime**, fuentes de inspiración y entretenimiento.<br><br>Como parte integral de la comunidad **LGBT**, he abrazado mi identidad **bisexual y trans** desde los 12 años, siendo tan vital para mí como mi pasión por la tecnología.<br><br>En este momento, vivo una etapa de gran felicidad junto a mi novio, quien ilumina mi vida con conversaciones llenas de alegría. 💖<br><br>Aunque actualmente no ejerzo profesionalmente, estoy puliendo mis habilidades para adentrarme con seguridad en el ámbito laboral.<br><br>Anticipo con ilusión lo que me reserva el futuro en **tecnología y ciberseguridad**, así como en las próximas travesías por los vastos universos de mis juegos y animes predilectos.
 
 ## 🌐 Socials:
@@ -17,10 +17,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TechDeveloperProgrammer&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme<br>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
+---<br>
 [![](https://visitcount.itsvg.in/api?id=TechDeveloperProgrammer&icon=0&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
